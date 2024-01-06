@@ -12,9 +12,7 @@
         "password": "ufs1{12qqsv&"
       },
       {
-        "title": "admin",
-        "username": "admin",
-        "password": "ufs1{12qqsv&"
+        
       }
       {
         "title": "smartsupp",
