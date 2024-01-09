@@ -85,23 +85,48 @@
               </div>
               <ul class="menu">
                 <li>
-                  <a href="{"?a=home"|encurl}">Home</a>
+                  <a href="#0">Home</a>
+                  <ul class="sub-menu">
+                    <li><a href="index.html">Home One</a></li>
+                    <li><a href="index2.html">Home Two</a></li>
+                  </ul>
                 </li>
-
                 <li>
-                  <a href="{"?a=about"|encurl}">About Us</a>
+                  <a href="about.html">About</a>
                 </li>
-
                 <li>
-                  <a href="{"?a=services"|encurl}">Services</a>
+                  <a href="plan.html">Plan</a>
                 </li>
-
                 <li>
-                  <a href="{"?a=faq"|encurl}">FAQ</a>
+                  <a href="#0">Pages</a>
+                  <ul class="sub-menu">
+                    <li>
+                      <a href="dashboard.html">User Dashboard</a>
+                    </li>
+                    <li>
+                      <a href="investor.html">Investor</a>
+                    </li>
+                    <li>
+                      <a href="faq.html">FAQs</a>
+                    </li>
+                    <li>
+                      <a href="policy.html">Privacy Policy</a>
+                    </li>
+                    <li>
+                      <a href="error-page.html">404</a>
+                    </li>
+                  </ul>
                 </li>
-
                 <li>
-                  <a href="{"?a=support"|encurl}">Contact Us</a>
+                  <a href="#0">Blog</a>
+                  <ul class="sub-menu">
+                    <li><a href="blog-grid.html">Blog Grid</a></li>
+                    <li><a href="blog-list.html">Blog List</a></li>
+                    <li><a href="blog-details.html">Blog Details</a></li>
+                  </ul>
+                </li>
+                <li>
+                  <a href="contact.html">Contact</a>
                 </li>
   
                 <li class="d-none d-lg-block">
@@ -112,16 +137,16 @@
   
                 <li class="p-0 d-lg-none mt-3 mt-lg-0">
                   <div class="button__wrapper">
-                    <a href="{"?a=signup"|encurl}" class="cmn--btn">Register</a>
-                    <a href="{"?a=login"|encurl}" class="cmn--btn">Login</a>
+                    <a href="sign-up.html" class="cmn--btn">Register</a>
+                    <a href="sign-in.html" class="cmn--btn">Login</a>
                   </div>
                 </li>
               </ul>
               <!-- Menu End -->
   
               <div class="button__wrapper d-none d-lg-block">
-                <a href="{"?a=signup"|encurl}" class="cmn--btn">Register</a>
-                    <a href="{"?a=login"|encurl}" class="cmn--btn">Login</a>
+                <a href="sign-up.html" class="cmn--btn">Register</a>
+                <a href="sign-in.html" class="cmn--btn">Login</a>
               </div>
   
               <div

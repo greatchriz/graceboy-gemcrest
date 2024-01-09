@@ -89,19 +89,19 @@
                 </li>
 
                 <li>
-                  <a href="{"?a=about"|encurl}">About Us</a>
+                  <a href="{"?a=home"|encurl}">Home</a>
                 </li>
 
                 <li>
-                  <a href="{"?a=services"|encurl}">Services</a>
+                  <a href="{"?a=home"|encurl}">Home</a>
                 </li>
 
                 <li>
-                  <a href="{"?a=faq"|encurl}">FAQ</a>
+                  <a href="{"?a=home"|encurl}">Home</a>
                 </li>
 
                 <li>
-                  <a href="{"?a=support"|encurl}">Contact Us</a>
+                  <a href="{"?a=home"|encurl}">Home</a>
                 </li>
   
                 <li class="d-none d-lg-block">
