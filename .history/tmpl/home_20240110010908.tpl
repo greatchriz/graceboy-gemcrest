@@ -161,7 +161,7 @@
                 Maecenas tempus tellus eget condimentum rhoncus sem quam semper
                 libero hyip investment pandding
               </p>
-              <a href="{"?a=login"|encurl}" class="cmn--btn">Get Started</a>
+              <a href="sign-in.html" class="cmn--btn">Get Started</a>
             </div>
             <div class="banner__thumb d-none d-lg-block">
               <img src="assets/images/banner/thumb.png" alt="banner" />
@@ -224,8 +224,8 @@
                   <li>Finibus onorum et alorum</li>
                 </ul>
                 <div class="button__wrapper">
-                  <a href="{"?a=about"|encurl}" class="cmn--btn">Know More</a>
-                  <a href="{"?a=support"|encurl}" class="cmn--btn2">Contact Us</a>
+                  <a href="about.html" class="cmn--btn">Know More</a>
+                  <a href="contact.html" class="cmn--btn2">Contact Us</a>
                 </div>
               </div>
             </div>
@@ -623,7 +623,7 @@
                   consequat vitae eleifend acenim
                 </p>
               </div>
-              <a href="{"?a=signup"|encurl}" class="cmn--btn">Get Started</a>
+              <a href="sign-up.html" class="cmn--btn">Get Started</a>
             </div>
           </div>
         </div>
@@ -716,14 +716,14 @@
                 </p>
               </div>
               <div class="button__wrapper">
-                <a href="{"?a=signup"|encurl}" class="cmn--btn download-btn"
+                <a href="sign-up.html" class="cmn--btn download-btn"
                   ><div class="icon"><i class="fab fa-google-play"></i></div>
                   <div class="text">
                     <p>DOWNLOAD</p>
                     <p class="for">For Android</p>
                   </div></a
                 >
-                <a href="{"?a=signup"|encurl}" class="cmn--btn download-btn"
+                <a href="sign-up.html" class="cmn--btn download-btn"
                   ><div class="icon"><i class="fab fa-apple"></i></div>
                   <div class="text">
                     <p>DOWNLOAD</p>
@@ -1377,7 +1377,7 @@
                     <li><a href="plan.html">Hyip Plan</a></li>
                     <li><a href="privacy-policy.html">Privacy & Policy</a></li>
                     <li><a href="dashboard.html">Dashboard</a></li>
-                    <li><a href="{"?a=login"|encurl}">Login Account</a></li>
+                    <li><a href="sign-in.html">Login Account</a></li>
                     <li>
                       <a href="terms-conditions.html">Terms & Conditions</a>
                     </li>
@@ -1388,11 +1388,11 @@
                 <div class="footer__widget">
                   <h3 class="widget-title">Company</h3>
                   <ul class="footer-links">
-                    <li><a href="{"?a=about"|encurl}">About</a></li>
+                    <li><a href="about.html">About</a></li>
                     <li><a href="blog.html">Blog Post</a></li>
                     <li><a href="dashboard.html">User Dashboard</a></li>
                     <li><a href="faq.html">Faq</a></li>
-                    <li><a href="{"?a=support"|encurl}">Contact Us</a></li>
+                    <li><a href="contact.html">Contact Us</a></li>
                   </ul>
                 </div>
               </div>
