@@ -1,6 +1,6 @@
 {include file="main_header.tpl"}
 
-{include file="pages_banner.tpl" title="About Us" title2="About"}
+{include file="inner-hero.tpl" title="About Us" title2="About"}
 <!-- about section start -->
 <section
   class="about-section pt-120 pb-120 bg_img"

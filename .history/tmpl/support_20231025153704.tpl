@@ -1,5 +1,5 @@
 {include file="main_header.tpl" current_page="home"}
-{include file="pages_banner.tpl" title="Contact Us" title2="Contact"}
+{include file="inner-hero.tpl" title="Contact Us" title2="Contact" bg="bg-1.jpg"}
 
 <section class="pt-120 pb-120">
   <div class="container">

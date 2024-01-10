@@ -1,6 +1,6 @@
 {include file="main_header.tpl"}
 
-{include file="pages_banner.tpl" title="Our Services" title2="Services"}
+{include file="inner-hero.tpl" title="Our Services" title2="Services" bg="bg-1.jpg"}
 
 
 
