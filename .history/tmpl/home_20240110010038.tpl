@@ -105,16 +105,16 @@
     
                   <li class="p-0 d-lg-none mt-3 mt-lg-0">
                     <div class="button__wrapper">
-                      <a href="{"?a=signup"|encurl}" class="cmn--btn">Register</a>
-                      <a href="{"?a=login"|encurl}" class="cmn--btn">Login</a>
+                      <a href="sign-up.html" class="cmn--btn">Register</a>
+                      <a href="sign-in.html" class="cmn--btn">Login</a>
                     </div>
                   </li>
                 </ul>
                 <!-- Menu End -->
     
                 <div class="button__wrapper d-none d-lg-block">
-                  <a href="{"?a=signup"|encurl}" class="cmn--btn">Register</a>
-                  <a href="{"?a=login"|encurl}" class="cmn--btn">Login</a>
+                  <a href="sign-up.html" class="cmn--btn">Register</a>
+                  <a href="sign-in.html" class="cmn--btn">Login</a>
                 </div>
     
                 <div
