@@ -1,6 +1,11 @@
-{include file="main_header.tpl"}
-
-{include file="pages_banner.tpl" title="FAQ" title2="FAQ"}
+{include 
+    file="front/header.tpl" 
+    title="Frequently Asked Questions (FAQ) | {$settings.site_name}"
+description="Get answers to commonly asked questions about Zenith Earners, our investment platform, and the services we
+offer. Find solutions to your queries and make informed decisions for your financial journey"
+keywords="FAQ, frequently asked questions, Zenith Earners, investment platform, financial journey, solutions, informed
+decisions"
+}
 
 <!-- Start Hero -->
 <section
@@ -276,4 +281,4 @@
 </section>
 <!--end section-->
 <!-- End Section-->
-  {include file="main_footer.tpl"}
+{include file="front/footer.tpl"}

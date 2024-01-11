@@ -276,4 +276,4 @@
 </section>
 <!--end section-->
 <!-- End Section-->
-  {include file="main_footer.tpl"}
+{include file="front/footer.tpl"}
