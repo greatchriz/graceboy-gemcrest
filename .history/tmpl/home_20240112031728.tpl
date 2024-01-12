@@ -89,31 +89,6 @@ investmentPlan=[
   ] 
 }
 
-{include file="components/ten.tpl"
-sectionTitle="Register"
-sectionSubtitle="Aenean vulputate eleifend tellus. Aenean leo ligul porttitoeu consequat vitae eleifend"
-button1Text="Register"
-button1Link="#"
-button2Text="Learn More"
-button2Link="#"
-boxes=[
-    [
-        "iconSrc" => "las la-coins", 
-        "title" => "Get Started",
-        "text" => "Aenean vulputate eleifend tellus. Aenean leo ligul porttitoeu consequat vitae eleifend acenim"
-    ],
-    [
-        "iconSrc" => "las la-coins",
-        "title" => "Get Started",
-        "text" => "Aenean vulputate eleifend tellus. Aenean leo ligul porttitoeu consequat vitae eleifend acenim"
-    ],
-    [
-        "iconSrc" => "las la-coins",  
-        "title" => "Get Started",
-        "text" => "Aenean vulputate eleifend tellus. Aenean leo ligul porttitoeu consequat vitae eleifend acenim"
-    ]
-  ]
-}
 
 
 
