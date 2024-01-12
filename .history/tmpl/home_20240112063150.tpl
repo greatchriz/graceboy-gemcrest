@@ -121,27 +121,6 @@ features= [
   ]
 }
 
-{include file="components/five.tpl"
-sectionTitle="The right to security"
-investors= [
-    [
-        "iconSrc" => "assets/images/box/bit-sized-content.png",
-      ],
-      [
-        "iconSrc" => "assets/images/box/community.png",
-      ],
-      [
-        "iconSrc" => "assets/images/box/daily-news.png",
-      ],
-      [
-        "iconSrc" => "assets/images/box/master-classes.png",
-      ],
-      [
-        "iconSrc" => "assets/images/box/weekly-newsletter.png",
-      ],
-  ]
-}
-
 
 
 
