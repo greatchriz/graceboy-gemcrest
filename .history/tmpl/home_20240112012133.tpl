@@ -8,7 +8,7 @@ sectionTitle="Coin Sets"
 sectionSubtitle="Theme based crypto baskets"
 
 bulletPoints=["Invest systematically in themes you like", "Diversify for risk management", "Passively re-balanced to keep your investments updated"]
-button1Text="Explore Coin Sets"
+button1Text="Get Started"
 button1Link="#"
 button2Text="Learn More"
 button2Link="#"
