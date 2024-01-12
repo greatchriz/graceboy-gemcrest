@@ -42,11 +42,8 @@ $features = [
 ];
 {/php}
 
-{include file="components/three.tpl"
-sectionTitle="Why Choose Us"
-sectionSubtitle="Aenean vulputate eleifend tellus. Aenean leo ligul porttitoeu consequat vitae eleifend"
-$features=$features
-}
+using the example you showed previously generate the features array of data
+
 
 
 <!-- Your remaining code -->
