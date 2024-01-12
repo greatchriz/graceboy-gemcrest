@@ -2,17 +2,7 @@
 
 {include file="home_page_banner.tpl"}
 
-{include file="components/one.tpl.tpl"
-imageSrc="assets/images/choose-us/thumb.png"
-sectionTitle="Why Choose Us"
-sectionSubtitle="Aenean vulputate eleifend tellus. Aenean leo ligul porttitoeu consequat vitae eleifend acenim"
-sectionContent="Aenean vulputate eleifend tellus. Aenean leo ligul porttitoeu consequat vitae eleifend acenim"
-bulletPoints=["Dapivamus elementum", "Dapivamus elementum", "There are many variations", "There are many variations", "Finibus onorum et alorum", "Finibus onorum et alorum"]
-button1Text="Get Started"
-button1Link="#"
-button2Text="Learn More"
-button2Link="#"
-}
+
 
 
 
