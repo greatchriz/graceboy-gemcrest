@@ -32,7 +32,7 @@ button2Link="#"
 
 {include file="components/three.tpl"
 sectionTitle="Here's why!"
-sectionSubtitle="Your next investment should be on Gemcrest"
+sectionSubtitle="Your next investment should be on Mudrex"
 features= [
     [
         "iconSrc" => "assets/images/feature/1.svg",
@@ -99,28 +99,31 @@ investmentPlan=[
   ] 
 }
 
-
-{include file="components/three.tpl"
-sectionTitle="The right to security"
-features= [
+{include file="components/ten.tpl"
+sectionTitle="Register"
+sectionSubtitle="Aenean vulputate eleifend tellus. Aenean leo ligul porttitoeu consequat vitae eleifend"
+button1Text="Register"
+button1Link="#"
+button2Text="Learn More"
+button2Link="#"
+boxes=[
     [
-        "iconSrc" => "assets/images/feature/funds.svg",
-        "title" => "Insured funds",
-        "content" => "All funds are insured by Lloyds of London"
-      ],
-      [
-        "iconSrc" => "assets/images/feature/storage.svg",
-        "title" => "Encrypted Secure Storage",
-        "content" => "Double the safety"
-      ],
-      [
-        "iconSrc" => "assets/images/feature/regulate.svg",
-        "title" => "Regulated in EU",
-        "content" => "Bank of Lithuania"
-      ]
+        "iconSrc" => "las la-coins", 
+        "title" => "Get Started",
+        "text" => "Aenean vulputate eleifend tellus. Aenean leo ligul porttitoeu consequat vitae eleifend acenim"
+    ],
+    [
+        "iconSrc" => "las la-coins",
+        "title" => "Get Started",
+        "text" => "Aenean vulputate eleifend tellus. Aenean leo ligul porttitoeu consequat vitae eleifend acenim"
+    ],
+    [
+        "iconSrc" => "las la-coins",  
+        "title" => "Get Started",
+        "text" => "Aenean vulputate eleifend tellus. Aenean leo ligul porttitoeu consequat vitae eleifend acenim"
+    ]
   ]
 }
-
 
 
 

@@ -32,7 +32,7 @@ button2Link="#"
 
 {include file="components/three.tpl"
 sectionTitle="Here's why!"
-sectionSubtitle="Your next investment should be on Gemcrest"
+sectionSubtitle="Your next investment should be on Mudrex"
 features= [
     [
         "iconSrc" => "assets/images/feature/1.svg",
@@ -101,22 +101,20 @@ investmentPlan=[
 
 
 {include file="components/three.tpl"
-sectionTitle="The right to security"
+sectionTitle="Here's why!"
+sectionSubtitle="Your next investment should be on Mudrex"
 features= [
     [
         "iconSrc" => "assets/images/feature/funds.svg",
-        "title" => "Insured funds",
-        "content" => "All funds are insured by Lloyds of London"
+        "content" => "Deposit/Withdraw funds and invest in crypto seamlessly"
       ],
       [
         "iconSrc" => "assets/images/feature/storage.svg",
-        "title" => "Encrypted Secure Storage",
-        "content" => "Double the safety"
+        "content" => "Diversify your portfolio at the click of a button with expert-curated crypto baskets"
       ],
       [
         "iconSrc" => "assets/images/feature/regulate.svg",
-        "title" => "Regulated in EU",
-        "content" => "Bank of Lithuania"
+        "content" => "Manage your portfolio effortlessly with actionable insights"
       ]
   ]
 }
