@@ -4016,6 +4016,7 @@ div[class*=col]:nth-of-type(4n + 4) .plan__item::before, .single-slide:nth-of-ty
     height: 100%;
     left: 0;
     top: 0;
+    background: linear-gradient(180deg, #04083F00 19%, #010124 81%);
     z-index: 1;
 }
 
