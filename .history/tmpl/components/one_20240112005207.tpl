@@ -99,7 +99,7 @@
 </section>
 <!-- Why Choose Us Section Ends Here -->
 
-{* 
+
     $smarty->assign('imageSrc', 'assets/images/choose-us/thumb.png');
     $smarty->assign('sectionTitle', 'Why Choose Our Investment Platform');
     $smarty->assign('sectionSubtitle', 'Aenean vulputate eleifend tellus. Aenean leo ligul porttitoeu consequat vitae eleifend acenim');
@@ -110,4 +110,4 @@
     $smarty->assign('button2Link', 'contact.html');
     $smarty->assign('button2Text', 'Contact Us');
     
-    $smarty->display('your_template.tpl'); *}
+    $smarty->display('your_template.tpl');
