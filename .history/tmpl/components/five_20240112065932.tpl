@@ -25,12 +25,8 @@
                   </div>
                   {/if}
                   <div class="investor__item-content">
-                    {if isset($investor.name)}
                     <h3 class="name">{$investor.name}</h3>
-                    {/if}
-                    {if isset($investor.amount)}
-                      <p class="invest-amount">{$investor.amount}</p>
-                    {/if}
+                    <p class="invest-amount">{$investor.amount}</p>
                   </div>
                 </div>
               </div>
