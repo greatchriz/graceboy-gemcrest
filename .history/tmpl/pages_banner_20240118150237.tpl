@@ -16,7 +16,7 @@
             class="shape shape1"
         />
         <img
-            src="{$innerBannerThumbBg}"
+            src="{$innerBannerBg}"
             alt="banner"
             class="shape shape2 d-none d-lg-block"
         />
