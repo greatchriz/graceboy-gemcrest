@@ -32,20 +32,11 @@ cardDetails= [
         "image" => "assets/images/values/4.png",
         "title" => "Perseverance",
         "content" => "Prioritize perseverance, belief in problem-solving, and dedication to operational excellence over luck or skill."
-    ],
-
-    [
-        "image" => "assets/images/values/5.png",
-        "title" => "Act in Gemcrest's Best Interest",
-        "content" => "Promote responsible choices, uphold 'Mudrex First' principles, practice intellectual honesty, and manage resources responsibly, including leave management."
-    ],
-
-    [
-        "image" => "assets/images/values/6.png",
-        "title" => "Compound Everything",
-        "content" => "Commit to small, incremental improvements for sustainable, long-lasting success, avoiding feature abandonment and neglecting mentorship."
     ]
-    
+    {* Perseverance
+Prioritize perseverance, belief in problem-solving, and dedication to operational excellence over luck or skill. *}
+
+
   ]
 }
 
