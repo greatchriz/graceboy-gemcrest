@@ -32,6 +32,21 @@
                         </div>
                     </div>
 
+
+
+                    <div class="post__item">
+                        <div class="post__item-thumb">
+                            <img
+                                src="{$cardDetail.image}"
+                                alt="blog"
+                            >
+                            <div class="thumb__content">
+                                <h3 class="title">{$cardDetail.title}</h3>
+                                <p>{$cardDetail.content}</p>
+                
+                            </div>
+                        </div>
+                    </div>
                 </div>
 
             {/foreach}
