@@ -3,32 +3,26 @@
 {include file="pages_banner.tpl" title="Our Services" title2="Services" innerBannerThumbBg="assets/images/banner/aboutus-banner-bg.png"}
 
 
-{include file="components/eleven.tpl"
+{include file="components/three.tpl"
 sectionTitle="Here's why!"
 sectionSubtitle="Your next investment should be on Gemcrest"
-cardDetails= [
+features= [
     [
-        "image" => "assets/images/values/1.png",
-        "title" => "Build Trust",
-        "content" => "Building trust requires time and relies on consistent, transparent actions. Trust can easily erode due to misrepresentation, hidden fees, or data opacity.
-        "
+        "iconSrc" => "assets/images/feature/1.svg",
+        "content" => "Deposit/Withdraw funds and invest in crypto seamlessly"
       ],
-
-    [
-        "image" => "assets/images/values/2.png",
-        "title" => "Play as Team",
-        "content" => "Foster teamwork with active listening, candid feedback, and fair processes to navigate disruptions effectively."
-      
-    ],
-
-    [
-        "image" => "assets/images/values/3.png",
-        "title" => "Bias Towards Action",
-        "content" => "Encourage proactive decision-making based on data and truth, embracing calculated risks and continuous learning."
-
-    ]
-
-
+      [
+        "iconSrc" => "assets/images/feature/2.svg",
+        "content" => "Diversify your portfolio at the click of a button with expert-curated crypto baskets"
+      ],
+      [
+        "iconSrc" => "assets/images/feature/3.svg",
+        "content" => "Manage your portfolio effortlessly with actionable insights"
+      ],
+      [
+        "iconSrc" => "assets/images/feature/4.svg",
+        "content" => "Crypto's here to stay. And so are we- by your side throughout your investment journey."
+      ]
   ]
 }
 
