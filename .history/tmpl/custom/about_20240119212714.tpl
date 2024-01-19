@@ -1,6 +1,6 @@
 {include file="main_header.tpl"}
 
-{include file="pages_banner.tpl" title="About Us" title2="About" innerBannerThumbBg="assets/images/banner/aboutus-banner-bg.png"}
+{include file="pages_banner.tpl" title="Our Services" title2="Services" innerBannerThumbBg="assets/images/banner/aboutus-banner-bg.png"}
 
 
 {include file="components/eleven.tpl"
