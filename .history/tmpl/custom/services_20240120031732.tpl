@@ -47,7 +47,7 @@
                 "title" => "Safe & Secure",
                
                 "content" => "Get assured returns with zero risk.
-                Funds are insured by Lloyd's of London"
+                Funds are insured by Lloyd’s of London"
             ],
             [
                "iconSrc" => "https://images.mudrex.com/vault/wallet.svg",
