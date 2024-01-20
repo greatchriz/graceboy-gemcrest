@@ -73,34 +73,6 @@
     
     }
 
-    {include file="components/fourteen.tpl"
-        cardDetails= [
-            [
-                "iconSrc" => "https://images.mudrex.com/vault/funds.svg",
-
-                "title" => "Insured funds",
-               
-                "content" => "
-                All funds are insured by Lloyds of London"
-            ],
-            [
-               "iconSrc" => "https://images.mudrex.com/vault/storage.svg",
-
-                "title" => "Encrypted Secure Storage",
-
-                "content" => "
-                Double the safety."
-            ],
-            [
-                "iconSrc" => "https://images.mudrex.com/vault/regulate.svg",
-
-                "title" => "Regulated in EU",
-                "content" => "
-                Bank of Lithuania"
-            ]
-        ]
-    }
-
    
 
 {include file="main_footer.tpl"}
