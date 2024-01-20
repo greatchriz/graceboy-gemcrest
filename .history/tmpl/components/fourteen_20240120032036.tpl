@@ -11,7 +11,7 @@
                         <div class="feature__item">
                             <div class="feature__item-icon">
                             
-                                <img class="iconsrcc" alt="" loading="lazy" width="290" height="206" decoding="async" data-nimg="1" src="{$cardDetail.iconSrc}"> 
+                                <img alt="" loading="lazy" width="290" height="206" decoding="async" data-nimg="1" src="{$cardDetail.iconSrc}"> 
                             </div>
                             <div class="feature__item-content">
                                 <h4 class="title">{$cardDetail.title}</h4>
