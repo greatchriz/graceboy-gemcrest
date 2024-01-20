@@ -1,5 +1,6 @@
 {include file="main_header.tpl"}
-{include file="pages_banner.tpl" title="FAQ" title2="FAQ" innerBannerThumbBg="assets/images/banner/inner-thumb.png"}
+
+{include file="pages_banner.tpl" title="FAQ" title2="FAQ"}
 <!-- Faq Section Starts Here -->
 <section class="faq-section padding-top padding-bottom">
     <div class="container">
