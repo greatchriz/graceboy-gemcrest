@@ -80,7 +80,7 @@
     <!-- Footer Section Ends Here -->
       {literal}
 
-      <!-- Smartsupp Live Chat script -->
+      <!-- Smartsupp Live Chat script 
 <script type="text/javascript">
 var _smartsupp = _smartsupp || {};
 _smartsupp.key = '817fc84157d356c3893d50c4d9f1d0fb28d316fb';
@@ -95,6 +95,7 @@ window.smartsupp||(function(d) {
 
   
   <script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
+-->
       
       {/literal}
       
