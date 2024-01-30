@@ -79,7 +79,7 @@
 
                         {include 
                             'navigation_item.tpl' 
-                            link='bank-withdrawal'
+                            link='bank-withdraw'
                             icon='images/svg/withdraw-icon.svg'
                             title='Bank Withdraw'
                         }

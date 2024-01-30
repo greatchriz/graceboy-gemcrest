@@ -77,12 +77,7 @@
                             title='Earning History'
                         }
 
-                        {include 
-                            'navigation_item.tpl' 
-                            link='bank-withdrawal'
-                            icon='images/svg/withdraw-icon.svg'
-                            title='Bank Withdraw'
-                        }
+                        
 
                         {include 
                             'navigation_item.tpl' 
