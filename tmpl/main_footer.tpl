@@ -98,7 +98,7 @@ n.src="https://cdn.livechatinc.com/tracking.js",t.head.appendChild(n)}};
 <a href="https://www.livechatinc.com/chat-with/17075313/" rel="nofollow">Chat with us</a>,
 powered by <a href="https://www.livechatinc.com/?welcome" rel="noopener nofollow" target="_blank">LiveChat</a>
 </noscript> -->
-<!-- End of LiveChat code -->
+<!-- End of lLiveChat code -->
       
       {/literal}
       
