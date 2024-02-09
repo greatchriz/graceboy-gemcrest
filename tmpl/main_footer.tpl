@@ -80,7 +80,7 @@
     <!-- Footer Section Ends Here -->
       {literal}
 
-     <!-- Start of LiveChat (www.livechatinc.com) code -->
+     <!-- Start of LiveChat (www.livechatinc.com) code
 <script type="text/javascript">
 window.__lc = window.__lc || {};
 window.__lc.license = 17075313;
@@ -97,7 +97,7 @@ n.src="https://cdn.livechatinc.com/tracking.js",t.head.appendChild(n)}};
 <noscript>
 <a href="https://www.livechatinc.com/chat-with/17075313/" rel="nofollow">Chat with us</a>,
 powered by <a href="https://www.livechatinc.com/?welcome" rel="noopener nofollow" target="_blank">LiveChat</a>
-</noscript>
+</noscript> -->
 <!-- End of LiveChat code -->
       
       {/literal}
