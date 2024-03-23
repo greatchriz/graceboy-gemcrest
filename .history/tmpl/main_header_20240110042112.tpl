@@ -72,7 +72,7 @@
           <div class="container">
             <div class="header-bottom-area">
               <div class="logo">
-                <a href="index.html"
+                <a href="/?a=home"
                   ><img src="assets/images/logo.png" alt="logo"
                 /></a>
               </div>

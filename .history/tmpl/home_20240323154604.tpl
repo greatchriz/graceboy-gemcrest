@@ -285,20 +285,20 @@
     </div>
       <div class="navbar-area sticky-top">
       <div class="mobile-nav">
-        <a href="index.html" class="logo">
+        <a href="/?a=home" class="logo">
           <img src="visitors/assets/img/logo/focal-icon-1.png" alt="Logo" style="">
         </a>
       </div>
       <div class="main-nav">
       <div class="container">
           <nav class="navbar navbar-expand-md navbar-light">
-              <a class="navbar-brand" href="index.html">
+              <a class="navbar-brand" href="/?a=home">
                   
                   <img src="visitors/assets/img/logo/focal-logo-black.png" alt="Logo" style="width:150px; height: 40px;">
               </a>
               <div class="collapse navbar-collapse mean-menu" id="navbarSupportedContent">
                   <ul class="navbar-nav">
-                      <li class="nav-item"> <a href="index.html" class="nav-link">Home</a> </li>
+                      <li class="nav-item"> <a href="/?a=home" class="nav-link">Home</a> </li>
           
               
                       <li class="nav-item"> <a href="about-us.html" class="nav-link">About</a> </li>
@@ -985,7 +985,7 @@
               <div class="col-sm-6 col-lg-5">
                   <div class="footer-item">
                       <div class="footer-logo">
-                          <a class="logo" href="index.html"> 
+                          <a class="logo" href="/?a=home"> 
                               <img src="visitors/assets/img/logo/focal-icon-1.png" alt="Logo" style="width:150px; height: 40px;">
                           </a>
                           <p>Our goal is to ensure the simplicity of investment. Having said these, we made the availability of suitable investment offers in other to ensure our client's maximum satisfaction.</p>
