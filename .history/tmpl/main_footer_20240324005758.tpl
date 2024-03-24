@@ -23,8 +23,8 @@
                       <ul>
                           <li> <a href="/?a=about">About</a> </li>
                           <li> <a href="/?a=faq">FAQ</a> </li>
-                          <li> <a href="privacy-policy.html">Privacy Policy</a> </li>
-                          <li> <a href="terms.html">Terms & conditions</a> </li>
+                          <li> <a href="?a=rules">Privacy Policy</a> </li>
+                          <li> <a href="?a=rules">Terms & conditions</a> </li>
                       </ul>
                   </div>
               </div>
