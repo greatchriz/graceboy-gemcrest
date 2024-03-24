@@ -18,11 +18,11 @@
     <div class="rules-area ptb-100">
       <div class="container">
         <div class="rules-item">
-          <h3>About Focaltrustpoint®</h3>
+          <h3>About Gemcrest®</h3>
           <p>Gemcrest indulges in forex trading and crypto currency trading. Our trading team consists of highly
             qualified analyst, analytical experts who by using their experience and latest software, are able to predict
             the movements in currency exchange &amp; cryptocurrency market with best accuracy. During its long
-            history,&nbsp;<span style="font-weight: bolder;">Focaltrustpoint</span>&nbsp;&nbsp;has achieved and occupied
+            history,&nbsp;<span style="font-weight: bolder;">Gemcrest</span>&nbsp;&nbsp;has achieved and occupied
             a stable position in the digital financial market and won the confidence of numerous investors from all over
             the world. We aim to deliver a complete and professional service aimed at meeting the highest requirement of
             our clients. Our high standards can be verified by the increasing numbers of long-standing clients.</p>
@@ -50,7 +50,7 @@
           </div>
           <p><b><b><b><i><b>Choose success today</b></i></b></b></b></p>
           <p><b><b><i><b>Choose&nbsp;</b></i></b></b><span
-              style="font-weight: bolder; text-align: left;">Focaltrustpoint</span><b
+              style="font-weight: bolder; text-align: left;">Gemcrest</span><b
               style="text-align: left;"><b><i><b>. ©</b></i></b></b></p>
           <p></p>
         </div>

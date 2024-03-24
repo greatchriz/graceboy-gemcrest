@@ -41,8 +41,8 @@
         {
           "@context": "https://schema.org",
           "@type": "Organization",
-          "url": "https://www.Focaltrustpoint.com",
-          "logo": "https://Focaltrustpoint.com/visitors/assets/img/logo/focal-icon-25.png"
+          "url": "https://www.Gemcrest.com",
+          "logo": "https://Gemcrest.com/visitors/assets/img/logo/focal-icon-25.png"
         }
       </script>
     <script type="application/ld+json">
@@ -50,7 +50,7 @@
         "@context": "https://schema.org",
         "@type": "Store",
         "image": [
-        "https://Focaltrustpoint.com/visitors1/img/banner.jpg",
+        "https://Gemcrest.com/visitors1/img/banner.jpg",
         "visitors1/img/mockup.png",
         "visitors/assets/img/logo/focal-icon-25.png"
         ],
@@ -68,7 +68,7 @@
         "latitude": 40.7128,
         "longitude": 74.0060
         },
-        "url": "https://Focaltrustpoint.com/",
+        "url": "https://Gemcrest.com/",
         "priceRange": "$100",
         "telephone": "+447827049698",
         "openingHoursSpecification": [
@@ -96,9 +96,9 @@
         {
           "@type": "Investment",
           "image": [
-        "https://Focaltrustpoint.com/"
+        "https://Gemcrest.com/"
         ],
-          "name": "Focaltrustpoint's Investment",
+          "name": "Gemcrest's Investment",
           "address": {
           "@type": "PostalAddress",
           "streetAddress": "30 St Mary Axe, London EC3A 8BF, United Kingdom.",
