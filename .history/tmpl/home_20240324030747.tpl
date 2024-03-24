@@ -233,7 +233,7 @@
                 <ul>
                   <li>5.00% daily for 3 days</li>
                   <li> Min deposit: $100.00</li>
-                  <li> Max deposit: $1,000.00</li>
+                  <li> Max deposit: $1000.00</li>
                   <li> Principal Returned</li>
                   <li> Compound Available</li>
                 </ul>
@@ -251,9 +251,9 @@
               </div>
               <div class="pricing-content">
                 <ul>
-                  <li>6.00% daily for 5 days</li>
-                  <li> Min deposit: $1,000.00</li>
-                  <li> Max deposit: $5,000.00</li>
+                  <li>5.00% daily for 5 days</li>
+                  <li> Min deposit: $1000.00</li>
+                  <li> Max deposit: $5000.00</li>
                   <li> Principal Returned</li>
                   <li> Compound Available</li>
                 </ul>
@@ -271,9 +271,9 @@
               </div>
               <div class="pricing-content">
                 <ul>
-                  <li>8.00% daily for 10 days</li>
-                  <li> Min deposit: $5,000.00</li>
-                  <li> Max deposit: $10,000.00</li>
+                  <li>5.00% daily for 10 days</li>
+                  <li> Min deposit: $5000.00</li>
+                  <li> Max deposit: $10000.00</li>
                   <li> Principal Returned</li>
                   <li> Compound Available</li>
                 </ul>
@@ -291,8 +291,8 @@
               </div>
               <div class="pricing-content">
                 <ul>
-                  <li>10.00% daily for 60 days</li>
-                  <li> Min deposit: $10,000.00</li>
+                  <li>5.00% daily for 30 days</li>
+                  <li> Min deposit: $10000.00</li>
                   <li> Max deposit: Unlimited</li>
                   <li> Principal Returned</li>
                   <li> Compound Available</li>
@@ -311,8 +311,8 @@
               </div>
               <div class="pricing-content">
                 <ul>
-                  <li>5.00% daily for 180 days</li>
-                  <li> Min deposit: $20,000.00</li>
+                  <li>5.00% daily for 60 days</li>
+                  <li> Min deposit: $15000.00</li>
                   <li> Max deposit: Unlimited</li>
                   <li> Principal Returned</li>
                   <li> Compound Available</li>

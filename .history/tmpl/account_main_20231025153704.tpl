@@ -15,7 +15,7 @@
          info="{$userinfo}"
       }
 
-      {* {include file="cards/watchlist.tpl"} *}
+      {include file="cards/watchlist.tpl"}
 
       {include file="cards/chart.tpl"}
 
