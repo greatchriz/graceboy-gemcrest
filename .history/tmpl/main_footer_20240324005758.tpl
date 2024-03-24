@@ -1,4 +1,3 @@
-{literal}
 <footer class="footer-area pt-100 pb-70">
   <div class="container">
       <div class="row">
@@ -6,7 +5,7 @@
               <div class="footer-item">
                   <div class="footer-logo">
                       <a class="logo" href="/?a=home"> 
-                      <img src="assets/images/logo.svg" width="150px" height="50px" alt="site-logo">
+                          <img src="visitors/assets/img/logo/focal-icon-1.png" alt="Logo" style="width:150px; height: 40px;">
                       </a>
                       <p>Our goal is to ensure the simplicity of investment. Having said these, we made the availability of suitable investment offers in other to ensure our client's maximum satisfaction.</p>
                       <ul>
@@ -51,7 +50,7 @@
 <div class="copyright-area">
   <div class="container">
       <div class="copyright-item">
-          <p>Copyright © 2024 Focaltrustpoint. </p>
+          <p>Copyright © 2024 Gemcrest. </p>
       </div>
   </div>
 </div>
@@ -219,147 +218,25 @@ $(document).ready(function(){
 
 
 
+<!-- Smartsupp Live Chat script -->
+<script type="text/javascript">
+var _smartsupp = _smartsupp || {};
+_smartsupp.key = '2022e52e239088892ba198a224bd20d90ec55de4';
+window.smartsupp||(function(d) {
+  var s,c,o=smartsupp=function(){ o._.push(arguments)};o._=[];
+  s=d.getElementsByTagName('script')[0];c=d.createElement('script');
+  c.type='text/javascript';c.charset='utf-8';c.async=true;
+  c.src='../www.smartsuppchat.com/loaderd41d.js?';s.parentNode.insertBefore(c,s);
+})(document);
+</script>
+
 <style>
   .dLavay, #smartsupp-widget-container div {
       margin-bottom: 37px !important;
   }
-</style>
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "mainEntity": [
-
-          {
-    "@type": "Question",
-    "name": "How do I receive my return on investments?",
-    "acceptedAnswer": {
-    "@type": "Answer",
-    "text":"You withdraw from your account on the company website to your crypto wallet, which you provided then to your bank account"
-    }
-    },
-          {
-    "@type": "Question",
-    "name": "Is cryptocurrency Halal or
-Permissible?",
-    "acceptedAnswer": {
-    "@type": "Answer",
-    "text":"We don&#039;t see anything inherently problematic about cryptocurrencies.
-Our commercial view is that this is an area that is clearly an important technology for the future, and Muslims should be thinking about getting involved both from an investor perspective and an entrepreneurial perspective (i.e., setting up projects)."
-    }
-    },
-          {
-    "@type": "Question",
-    "name": "What&#039;s the guarantee of my investment?",
-    "acceptedAnswer": {
-    "@type": "Answer",
-    "text":"99.9% guarantee. We have the best-skilled and trained experts on our team with years of experience, and this company runs on risk management."
-    }
-    },
-          {
-    "@type": "Question",
-    "name": "Can I create multiple accounts with the company?",
-    "acceptedAnswer": {
-    "@type": "Answer",
-    "text":"No. The company will only recognize a single profile. For special purposes, please contact our live support."
-    }
-    },
-          {
-    "@type": "Question",
-    "name": "How many times can I reinvest?",
-    "acceptedAnswer": {
-    "@type": "Answer",
-    "text":"You can only reinvest once; thereafter, you can choose a higher amount or the next plan to invest."
-    }
-    },
-          {
-    "@type": "Question",
-    "name": "Is my account secured?",
-    "acceptedAnswer": {
-    "@type": "Answer",
-    "text":"Yes, we have a skilled team of cybersecurities that ensures that the company is protected and safe from cyberattacks or intrusions."
-    }
-    },
-          {
-    "@type": "Question",
-    "name": "Why is the legal trading certificate required?",
-    "acceptedAnswer": {
-    "@type": "Answer",
-    "text":"It&#039;s required for your account to be upgraded to platinum to be able to withdraw a huge amount of funds from the company.
-The company issues their own legal trading certificate to an investor"
-    }
-    },
-          {
-    "@type": "Question",
-    "name": "Do I get a bonus for referring someone to the company?",
-    "acceptedAnswer": {
-    "@type": "Answer",
-    "text":"Yes! The company rewards you with a 5% bonus for every referral that you make."
-    }
-    },
-          {
-    "@type": "Question",
-    "name": "What happens when I have an unconfirmed pending deposit?",
-    "acceptedAnswer": {
-    "@type": "Answer",
-    "text":"You will need to complete the deposit for it to be confirmed. Be careful not to create multiple deposits."
-    }
-    },
-          {
-    "@type": "Question",
-    "name": "What&#039;s a compounding week?",
-    "acceptedAnswer": {
-    "@type": "Answer",
-    "text":"Compounding week is a week offered by the company to active investors, both newly joined investors an opportunity to generate additional earnings.
-With compounding you can earn 100%-300% or more profits daily depending on the profits made by the company team of traders."
-    }
-    },
-          {
-    "@type": "Question",
-    "name": "What&#039;s the ITF fee?",
-    "acceptedAnswer": {
-    "@type": "Answer",
-    "text":"ITF fee means international transfers /transaction fee, it&#039;s a compulsory fee required to release and process the compounding profits and withdrawn to an investors provided wallet address."
-    }
-    },
-          {
-    "@type": "Question",
-    "name": "WHY IS 10% ITF FEE REQUIRED FOR COMPOUNDING WITHDRAWAL",
-    "acceptedAnswer": {
-    "@type": "Answer",
-    "text":"ITF fee means international transfers /transaction fee , it’s the fee required to release the compounding amount, so it can be able to be withdrawn to an investors Wallet address, so it’s compulsory for the fee to be paid and withdrawals will
-Be processed with an immediate effect."
-    }
-    },
-          {
-    "@type": "Question",
-    "name": "Cryptocurrency is banned in my country; how can I invest?",
-    "acceptedAnswer": {
-    "@type": "Answer",
-    "text":"Contact our customer service representative to learn more about this."
-    }
-    },
-          {
-    "@type": "Question",
-    "name": "Is cryptocurrency a safe investment?",
-    "acceptedAnswer": {
-    "@type": "Answer",
-    "text":"Absolutely! If you invest on the right platform, then it&#039;s completely safe to invest in cryptocurrency. There are more reasons you should invest with us."
-    }
-    },
-          {
-    "@type": "Question",
-    "name": "Will I be charged for depositing money?",
-    "acceptedAnswer": {
-    "@type": "Answer",
-    "text":"Charges will not be collected if you are making deposits to Gemcrest platform: <ul><li>Web</li><li>App</li><li>Desktop</li></ul>"}
-    }
-  ]
-}
-</script>
+</style>    <script src="plugins/lobibox/js/lobibox.js"></script>
+  <script src="js/login.js"></script>
 </body>
 
-
-<!-- Mirrored from focaltrustpoint.com/ by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 12 Mar 2024 11:30:48 GMT -->
+<!-- Mirrored from focaltrustpoint.com/faqs by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 12 Mar 2024 11:31:08 GMT -->
 </html>
-{/literal}

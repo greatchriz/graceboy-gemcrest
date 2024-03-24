@@ -659,5 +659,4 @@
         </div>
       </div>
     </section>
-    
  {include file="main_footer.tpl"}

@@ -1,6 +1,7 @@
 {
     "recommendations": [
         "codeium.codeium",
-        "kisstkondoros.vscode-gutter-preview"
+        "kisstkondoros.vscode-gutter-preview",
+        "mblode.pretty-formatter"
     ]
 }

@@ -1,9 +1,7 @@
-{literal}
-  
 <!DOCTYPE html>
   <html lang="zxx">
   
-  <!-- Mirrored from focaltrustpoint.com/ by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 12 Mar 2024 11:29:59 GMT -->
+  <!-- Mirrored from focaltrustpoint.com/faqs by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 12 Mar 2024 11:31:08 GMT -->
   <!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=UTF-8" /><!-- /Added by HTTrack -->
   <head>
     <meta charset="UTF-8">
@@ -22,7 +20,10 @@
     <link rel="stylesheet" href="visitors/assets/css/magnific-popup.min.css">
     <link rel="stylesheet" href="visitors/assets/css/style.css">
     <link rel="stylesheet" href="visitors/assets/css/responsive.css">
-    <title>Gemcrest Investment Website</title> 
+    {* I WOULD LIKE TO MAKE THE TITLE OF THE PAGE DYNAMIC *}
+    <title>Gemcrest - {$page_title}</title>
+    {literal}
+      
     <link rel="shortcut icon" type="image/png" href="visitors/assets/img/logo/focal-icon-25.png">
     <meta property="og:description" content="Gemcrest deals on investment on digital assets, investing with Gemcrest gives you the chance to leverage on their large market data and increase your chances of attaining high financial breakthrough.">
     <meta property="og:image" content="visitors1/img/banner.jpg">
@@ -288,7 +289,7 @@
       <div class="navbar-area sticky-top">
       <div class="mobile-nav">
         <a href="/?a=home" class="logo">
-        <img src="assets/images/logo.svg" width="150px" height="50px" alt="site-logo">
+          <img src="visitors/assets/img/logo/focal-icon-1.png" alt="Logo" style="">
         </a>
       </div>
       <div class="main-nav">
@@ -296,7 +297,7 @@
           <nav class="navbar navbar-expand-md navbar-light">
               <a class="navbar-brand" href="/?a=home">
                   
-              <img src="assets/images/logo.svg" width="150px" height="50px" alt="site-logo">
+                  <img src="visitors/assets/img/logo/focal-logo-black.png" alt="Logo" style="width:150px; height: 40px;">
               </a>
               <div class="collapse navbar-collapse mean-menu" id="navbarSupportedContent">
                   <ul class="navbar-nav">
@@ -321,6 +322,27 @@
               </div>
           </nav>
       </div>
-  </div>	</div>	
-  
-{/literal}
+  </div>
+    </div>
+    {/literal}
+
+{* <li>
+                  <a href="{"?a=home"|encurl}">Home</a>
+                </li>
+
+                <li>
+                  <a href="{"?a=about"|encurl}">About Us</a>
+                </li>
+
+                <li>
+                  <a href="{"?a=services"|encurl}">Services</a>
+                </li>
+
+                <li>
+                  <a href="{"?a=faq"|encurl}">FAQ</a>
+                </li>
+
+                <li>
+                  <a href="{"?a=support"|encurl}">Contact Us</a>
+                </li>
+   *}
