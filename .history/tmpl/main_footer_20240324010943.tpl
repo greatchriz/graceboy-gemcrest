@@ -51,7 +51,7 @@
 <div class="copyright-area">
   <div class="container">
       <div class="copyright-item">
-          <p>Copyright © 2024 Focaltrustpoint. </p>
+          <p>Copyright © 2024 Gemcrest. </p>
       </div>
   </div>
 </div>
@@ -360,6 +360,6 @@ Be processed with an immediate effect."
 </body>
 
 
-<!-- Mirrored from focaltrustpoint.com/ by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 12 Mar 2024 11:30:48 GMT -->
+<!-- Mirrored from Gemcrest.com/ by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 12 Mar 2024 11:30:48 GMT -->
 </html>
 {/literal}

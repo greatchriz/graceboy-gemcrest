@@ -1,7 +1,7 @@
 <!DOCTYPE html>
   <html lang="zxx">
   
-  <!-- Mirrored from focaltrustpoint.com/about-us by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 12 Mar 2024 11:31:06 GMT -->
+  <!-- Mirrored from Gemcrest.com/about-us by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 12 Mar 2024 11:31:06 GMT -->
   <!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=UTF-8" /><!-- /Added by HTTrack -->
   <head>
     <meta charset="UTF-8">
@@ -324,7 +324,7 @@
             <div class="title-content">
               <h2>About Us</h2>
               <ul>
-                <li> <a href="index-2.html">Home</a> </li>
+                <li> <a href="?a=home">Home</a> </li>
                 <li> <span>About Us</span> </li> 
               </ul>
             </div>
@@ -390,7 +390,7 @@
   <div class="copyright-area">
       <div class="container">
           <div class="copyright-item">
-              <p>Copyright © 2024 Focaltrustpoint. </p>
+              <p>Copyright © 2024 Gemcrest. </p>
           </div>
       </div>
   </div>
@@ -578,6 +578,6 @@
       <script src="js/login.js"></script>
   </body>
   
-  <!-- Mirrored from focaltrustpoint.com/about-us by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 12 Mar 2024 11:31:07 GMT -->
+  <!-- Mirrored from Gemcrest.com/about-us by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 12 Mar 2024 11:31:07 GMT -->
   </html>
   
